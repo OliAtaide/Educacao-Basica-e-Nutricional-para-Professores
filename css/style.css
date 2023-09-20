@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+:root {
+  --color1: hsla(0, 0%, 15%, 1);
+  --color2: hsla(218, 14%, 69%, 1);
+}
+
+* {
+  font-family: "Jost", sans-serif;
+}
+
+body {
+  background-color: var(--color2);
+}
+
+body {
+  background-color: #f7f9fc;
+  display: flex;
+}
+
+.game {
+  width: 100%;
+  color: var(--color1);
+}
+.game .title {
+  padding-left: 80px;
+  padding-right: 80px;
+  background-color: #f8f9fc;
+}
+.game .subtitle {
+  font-weight: 600;
+  font-size: 18px;
+  background-color: white;
+}
+.game .game-container {
+  background-color: var(--color2);
+}
+.game .game-container .game-body .game-card {
+  width: 400px;
+  height: 520px;
+  overflow-y: auto;
+  /* Track */
+  /* Handle */
+  /* Handle on hover */
+}
+.game .game-container .game-body .game-card::-webkit-scrollbar {
+  width: 1em;
+}
+.game .game-container .game-body .game-card::-webkit-scrollbar-track {
+  background: transparent;
+}
+.game .game-container .game-body .game-card::-webkit-scrollbar-thumb {
+  background: var(--color1);
+  border: 5px solid white;
+  border-radius: 9999px;
+}
+.game .game-container .game-body .game-card::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+h1 {
+  color: var(--color1);
+}
+
+.card {
+  border-radius: 16px;
+  position: relative;
+  border: none;
+}
+
+.card-title,
+.card-text,
+span {
+  color: var(--color1);
+}
+
+.navbar span,
+.card-text {
+  text-align: justify;
+}
+
+.vr {
+  height: 24px;
+  background-color: var(--color1);
+  opacity: 1;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.container {
+  max-width: 1740px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 36px auto;
+  padding-bottom: 72px;
+}
+.timeline::before {
+  content: "";
+  position: absolute;
+  width: 2px;
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+.tl-btn {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 18px);
+  border-radius: 50%;
+  background-color: white;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.tl-btn:active {
+  background-color: black;
+  color: white;
+}
+.tl-btn:hover {
+  background-color: var(--color1);
+  color: white;
+}
+
+/* Container around content */
+.tl-container {
+  padding: 0 20px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+/* Place the container to the left */
+.left {
+  left: 0;
+}
+
+/* Place the container to the right */
+.right {
+  left: 50%;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+  /* Full-width containers */
+  .card {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+}
+footer {
+  background-color: white;
+}
+
+/*# sourceMappingURL=style.css.map */

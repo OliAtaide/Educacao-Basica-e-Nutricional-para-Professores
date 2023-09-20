@@ -1,0 +1,70 @@
+[
+    {
+        "ano": "1948",
+        "titulo": "Declaração Universal dos Direitos Humanos",
+        "texto": "A Organização das Nações Unidas (ONU), via assembleia geral, adotou e proclamou a Declaração Universal dos Direitos Humanos (DUDH). Assim, declarou-se que a alimentação é direito de todos (Artigo 25). ",
+        "link": ""
+    },
+    {
+        "ano": "1955",
+        "titulo": "Campanha de Merenda Escolar (CME)",
+        "texto": "Foi instituída por meio do Decreto n° 37.106. Coube ao Ministério da Educação a responsabilidade de promover assistência técnica e financeira para facilitar a alimentação de escolares, uma das abrangências da CME, o que se transformou no Programa Nacional de Alimentação Escolar (PNAE). Saiba mais sobre a CME e o histórico do PNAE aqui:",
+        "link": "http://www.fnde.gov.br/programas/pnae/pnae-sobre-o-programa/pnae-historico"
+    },
+    {
+        "ano": "1974",
+        "titulo": "Declaração Universal sobre a Erradicação da Fome e Desnutrição",
+        "texto": "Na declaração, adotada na I Conferência Mundial da Alimentação, ressaltou-se a eliminação da fome e má-nutrição como objetivo comum de todas as nações , assim como o estabelecimento de um sistema de segurança alimentar mundial, uma vez que o bem-estar das pessoas depende da produção e distribuição adequada de alimentos.  ",
+        "link": ""
+    },
+    {
+        "ano": "1979",
+        "titulo": "Convenção sobre a eliminação de todas as formas de discriminação contra a mulher",
+        "texto": "Adotada pela assembleia geral da ONU a partir da preocupação com o fato de que, especialmente em situações de pobreza, as mulheres têm menos acesso à alimentação, saúde, educação, emprego e demais direitos.",
+        "link": ""
+    },
+    {
+        "ano": "1999",
+        "titulo": "Política Nacional de Alimentação e Nutrição (PNAN)",
+        "texto": "Foi aprovada em 1999 (portaria nº 710), com o propósito de integrar a Política Nacional de Saúde e concretizar o Direito Humano à Alimentação Adequada, incorporando o contexto da Segurança Alimentar e Nutricional (SAN). A PNAN também objetiva a promoção da alimentação adequada e saudável e o estímulo a ações intersetoriais para a garantia do DHAA. Você pode acessar a PNAN neste link:",
+        "link": "https://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_alimentacao_nutricao.pdf"
+    },
+    {
+        "ano": "2004",
+        "titulo": "Diretrizes voluntárias sobre o direito à alimentação",
+        "texto": "As diretrizes foram adotadas como meio para promover orientações e instrumentos básicos para a realização progressiva do DHAA, considerando os demais direitos fundamentais à sua garantia no contexto da SAN.",
+        "link": ""
+    },
+    {
+        "ano": "2006",
+        "titulo": "a. Criação do Sistema Nacional de Segurança Alimentar e Nutricional (SISAN)",
+        "texto": "Por meio da Lei nº 11.346, de 15 de setembro de 2006, foram estabelecidos, conforme o Art. 1°, meios e especificações para implementação de políticas, planos, programas e ações para que o DHAA seja assegurado. Ainda, ressaltou-se que “é dever do poder público respeitar, proteger, promover, prover, informar, monitorar, fiscalizar e avaliar a realização do direito humano à alimentação adequada, bem como garantir os mecanismos para sua exigibilidade” (parágrafo segundo do art. 2°).",
+        "titulo2": " b. Portaria 1010",
+        "texto2": "Trata-se de um passo importante para a Promoção da Alimentação Saudável nas Escolas, pois essa portaria, além de reafirmar as responsabilidades do poder público quanto à alimentação no ambiente escolar, institui diretrizes e define ações para essa promoção e fortalece o reconhecimento da alimentação saudável como direito nosso e estratégia para promoção da saúde.",
+        "link": ""
+    },
+    {
+        "ano": "2010",
+        "titulo": "Emenda Constitucional nº 64",
+        "texto": "Por meio dessa emenda, a alimentação foi reconhecida como direito social da população brasileira na Constituição, fato que representa um marco nacional na longa luta em prol do DHAA. ",
+        "link": ""
+    },
+    {
+        "ano": "2011",
+        "titulo": "Lei nº 11.947, de 16 de junho de 2009",
+        "texto": "Considerada um grande avanço para o Programa Nacional da Alimentação Escolar, essa lei, ao considerar a transversalidade do tema da alimentação, fortalece a inclusão da Educação Alimentar e Nutricional no processo de ensino e aprendizagem, de maneira a perpassar o currículo escolar.",
+        "link": ""
+    },
+    {
+        "ano": "2012",
+        "titulo": "Marco de Referência de Educação Nutricional e Alimentar para as Políticas Públicas",
+        "texto": "O marco é um documento que destaca e reconhece a importância da Educação Alimentar e Nutricional como via para garantia do DHAA. Ademais, esclarece os campos de prática que podem englobar a EAN e traz princípios para ações educativas de tal natureza. Quer ver como o marco é legal? Acesse:",
+        "link": "https://www.cfn.org.br/wp-content/uploads/2017/03/marco_EAN.pdf"
+    },
+    {
+        "ano": "2016",
+        "titulo": "Proclamação da Década de Ação na Nutrição",
+        "texto": "Considerando a situação atual da fome, subalimentação, desnutrição e, de modo contrastante, da obesidade no mundo, a assembleia geral da ONU proclamou essa década para erradicar a fome e evitar todas as formas de desnutrição a nível mundial. Tal fato representa um caminho para atingir a Agenda 2030 para o Desenvolvimento Sustentável, que tem como metas 1 e 2 erradicar a pobreza, a fome e promover a agricultura sustentável. Você pode se informar mais aqui:",
+        "link": "https://nacoesunidas.org/pos2015/agenda2030/"
+    }
+]
